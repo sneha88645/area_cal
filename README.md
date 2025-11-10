@@ -25,5 +25,10 @@ The user selects a number to choose a shape.
 For the selected shape, the program asks for required inputs (side, radius, length, breadth, base, height).
 
 After each calculation, the user can choose:
-
+🧮 Mathematical Formulae Used
+Shape	Formula
+Square	Area = side²
+Circle	Area = (22/7) × radius²
+Rectangle	Area = length × breadth
+Triangle	Area = 0.5 × base × height
 
